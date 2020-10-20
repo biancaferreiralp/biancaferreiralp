@@ -1,5 +1,6 @@
 # Bianca Ferreira
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/biancaferreiralp/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/biancaferreiralp/)
+[![Gmail Badge](https://img.shields.io/badge/-bianca@biancaferreira.co-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bianca@biancaferreira.co)](mailto:bianca@biancaferreira.co)
 
 ```diff
 Hello_
