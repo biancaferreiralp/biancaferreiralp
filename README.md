@@ -1,5 +1,4 @@
 # Bianca Ferreira
-**bianca@biancaferreira.co**
 
 ```diff
 Hello_
