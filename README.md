@@ -1,5 +1,3 @@
-# Bianca Ferreira
-
 ```diff
 Hello_
 
