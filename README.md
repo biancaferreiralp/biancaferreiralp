@@ -9,4 +9,5 @@ I'm a curious and creative mind who's passionate about art, people and tech.
 - 💻 Constantly practicing Ruby On Rails, HTML and CSS
 
 [Let's connect!](https://www.linkedin.com/in/biancaferreiralp/)
-[Send me an e-mail](bianca@biancaferreira.co)
+
+Feel free to also contact me on bianca@biancaferreira.co
